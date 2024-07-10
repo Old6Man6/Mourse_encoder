@@ -1,2 +1,2 @@
-Writen in Python 
+Writen in Python ,
 pass an string and give the mourse encoded of it...
